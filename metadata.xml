@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>De Leeuw van Modderspruit: een verhaal uit den Engelsch-Zuid-Afrikaanschen oorlog 1899–1900</dc:title>
+      <dc:creator>Louwrens Penning (1854–1927)</dc:creator>
+      <dc:creator>Willem Steelink jr. (1856–1928)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2014-05-20</dc:publisher>
+      <dc:date>2014-05-20</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+</dc:rights>
+      <dc:subject>War stories</dc:subject>
+      <dc:subject>Christian life -- Fiction</dc:subject>
+      <dc:subject>South African War, 1899-1902 -- Fiction</dc:subject>
+      <dc:subject>South Africa -- History -- 1836-1909 -- Fiction</dc:subject>
+      <dc:subject>Afrikaners -- Fiction</dc:subject>
+      <dc:identifier>pg:45707</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
